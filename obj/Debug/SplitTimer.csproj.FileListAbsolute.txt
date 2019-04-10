@@ -1,0 +1,15 @@
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\bin\Debug\SplitTimer.exe.config
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\bin\Debug\SplitTimer.exe
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\bin\Debug\SplitTimer.pdb
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer.csprojAssemblyReference.cache
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\MainWindow.g.cs
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\App.g.cs
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer_MarkupCompile.cache
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer_MarkupCompile.lref
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\MainWindow.baml
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer.g.resources
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer.Properties.Resources.resources
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer.csproj.GenerateResource.cache
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer.csproj.CoreCompileInputs.cache
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer.exe
+D:\Users\Jason Tien\Documents\Git\SplitTimer\SplitTimer\SplitTimer\obj\Debug\SplitTimer.pdb
