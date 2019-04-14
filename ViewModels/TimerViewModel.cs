@@ -12,7 +12,7 @@ using System.Diagnostics;
 
 namespace SplitTimer.ViewModels
 {
-    internal class TimerViewModel : INotifyPropertyChanged
+    internal class TimerViewModel : BaseViewModel
     {
         private TimeSpan TimeSpan = new TimeSpan(0, 0, 0, 0, 10);
         private DispatcherTimer DispatcherTimer = new DispatcherTimer();
@@ -27,14 +27,8 @@ namespace SplitTimer.ViewModels
             set
             {
                 myTimer.Time = value;
-                NotifyPropertyChanged("Time");
+                NotifyPropertyChanged(nameof(Time));
             }
-        }
-
-        public event PropertyChangedEventHandler PropertyChanged;
-        public void NotifyPropertyChanged(string propertyName)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
         public TimerViewModel()
