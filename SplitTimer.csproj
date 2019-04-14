@@ -63,8 +63,15 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Commands\TimerCommands.cs" />
+    <Compile Include="Controls\TimerControl.xaml.cs">
+      <DependentUpon>TimerControl.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ViewModels\BaseViewModel.cs" />
     <Compile Include="ViewModels\TimerViewModel.cs" />
+    <Page Include="Controls\TimerControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

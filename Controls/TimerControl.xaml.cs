@@ -12,23 +12,20 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using System.Windows.Threading;
-using System.Diagnostics;
-using System.Globalization;
-using System.ComponentModel;
 using SplitTimer.ViewModels;
 
-namespace SplitTimer.Views
+namespace SplitTimer.Controls
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for TimerControl.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class TimerControl : UserControl
     {
-        public MainWindow()
+        public TimerControl()
         {
             InitializeComponent();
 
+            DataContext = new TimerViewModel();
         }
     }
 }
